@@ -47,3 +47,9 @@ The generated executable will appear in the `dist` folder.
 - If `pygame` is installed and sound files are present, the game plays card and payout sounds.
 - If sound is unavailable, the game still runs normally.
 - Save and load progress using the in-game buttons.
+
+
+## File Access
+
+- Total file size exceeded 25MB, therefore it cannot be uploaded into repository.
+- Access file here in Google Drive: https://drive.google.com/drive/folders/1wYOsEz2SaUpOkg_njF2-MfwEaC-VkcY_?usp=sharing
