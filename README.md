@@ -52,4 +52,4 @@ The generated executable will appear in the `dist` folder.
 ## File Access
 
 - Total file size exceeded 25MB, therefore it cannot be uploaded into repository.
-- Access file here in Google Drive: https://drive.google.com/drive/folders/1wYOsEz2SaUpOkg_njF2-MfwEaC-VkcY_?usp=sharing
+- Access files here in Google Drive: https://drive.google.com/drive/folders/1wYOsEz2SaUpOkg_njF2-MfwEaC-VkcY_?usp=sharing
